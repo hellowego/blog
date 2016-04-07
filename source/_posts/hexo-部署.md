@@ -14,3 +14,13 @@ tags:
 $ npm install-g hexo
 ```
 {% img /img/20160407/1.png 1394 956  %}
+
+### 部署hexo
+
+新建一个文件夹blog，初始化应用。
+``` bash
+$ mkdir blog
+$ cd blog
+$ hexo init
+```
+{% img /img/20160407/2.png 1394 956  %}
