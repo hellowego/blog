@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: My blog
 subtitle:
-description:
-author: John Doe
-language:
+description: 扬帆起航
+author: 乘风破浪
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: next
+theme: next
+
+avatar: /uploads/avatar.png
+
+duoshuo_shortname: hellowego
+baidu_analytics: 30a7a9c70d94020e8450e633eb424803
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
