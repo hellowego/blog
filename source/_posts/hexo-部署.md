@@ -55,7 +55,7 @@ deploy:
   branch: master
 ```   
 
-### 部署
+### 部署到github
 ``` bash
 $ hexo deploy
 ```   
